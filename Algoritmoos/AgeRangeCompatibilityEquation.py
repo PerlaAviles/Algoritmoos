@@ -1,3 +1,6 @@
+"""""
+Se genera un rango de edad
+"""
 import math
 def dating_age_range(age):
     if age <= 14:
